@@ -34,13 +34,9 @@ int main()
 
 	system("cls");
 	cout<<"\n\n";
-	cout<<"                              Valinor"<<endl;
-	cout<<"                     A strategic adventure in DOS"<<endl<<endl;
-	cout<<" Set in a land untouched by time and the hands of the second-born..."<<endl;
-	cout<<"    Beyond the westerning shore, towards the starlight undying..."<<endl;
-	cout<<"     For Morgoth and Ungoliant, and the glory of the fell storm!"<<endl<<endl<<endl;
-	cout<<"Cast upon the free peoples by Darksyde | Obsidian Studios and ArkonSoft"<<endl<<endl;
-	cout<<"                  Fed by Cogency Software Solutions"<<endl<<endl<<endl<<"\t\t   ";
+	cout<<"                              Strategy"<<endl;
+	cout<<"                              ASCII RTS"<<endl<<endl;
+	cout<<"                              By lengxi"<<endl<<endl<<endl<<"\t\t   ";
 
 	/*cout<<"                     Press enter to begin... ";
 	cin>>a;*/
